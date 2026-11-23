@@ -13,5 +13,5 @@
   ],
   "license": "GPL-3.0-only",
   "summary": "Amalgamated Signals' smooth velvet-noise reverb, bit-identical to the original, with time, pre-delay, bass, treble, width and mix on upstream's sliders.",
-  "screenshot": "https://raw.githubusercontent.com/biloo77-cell/mpc-vst-nepenthe/610d15d6de25672b66c0f22b929b91407fa61ff9/docs/img/nepenthe.png"
+  "screenshot": "https://raw.githubusercontent.com/biloo77-cell/mpc-vst-nepenthe/fc20c16418576400e025ab45f1ed2db70e5a16a4/docs/img/nepenthe.png"
 }
